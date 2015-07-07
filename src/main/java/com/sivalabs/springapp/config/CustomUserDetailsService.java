@@ -14,7 +14,7 @@ import com.sivalabs.springapp.services.UserService;
 import com.sivalabs.springapp.web.config.SecurityUser;
 
 /**
- * @author Siva
+ * @author lc
  *
  */
 @Component
